@@ -1,6 +1,6 @@
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 15
-VisualStudioVersion = 15.0.28010.2050
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35013.160
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Edi", "Edi\Edi\Edi.csproj", "{2FC27F19-6128-4A21-8C52-1E6AB6618E78}"
 EndProject
@@ -110,6 +110,7 @@ Global
 		{972E4948-C781-4CF9-A13E-AC3146AB0AD1}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{972E4948-C781-4CF9-A13E-AC3146AB0AD1}.Debug|Net35.ActiveCfg = Debug|Any CPU
 		{972E4948-C781-4CF9-A13E-AC3146AB0AD1}.Debug|Net40.ActiveCfg = Debug|Any CPU
+		{972E4948-C781-4CF9-A13E-AC3146AB0AD1}.Debug|Net40.Build.0 = Debug|Any CPU
 		{972E4948-C781-4CF9-A13E-AC3146AB0AD1}.Debug|WithNRefactory.ActiveCfg = Debug|Any CPU
 		{972E4948-C781-4CF9-A13E-AC3146AB0AD1}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{972E4948-C781-4CF9-A13E-AC3146AB0AD1}.Release|Any CPU.Build.0 = Release|Any CPU
@@ -152,6 +153,7 @@ Global
 		{F17E5E06-F28C-4E91-964F-CDB9F8589BB7}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F17E5E06-F28C-4E91-964F-CDB9F8589BB7}.Debug|Net35.ActiveCfg = Debug|Any CPU
 		{F17E5E06-F28C-4E91-964F-CDB9F8589BB7}.Debug|Net40.ActiveCfg = Debug|Any CPU
+		{F17E5E06-F28C-4E91-964F-CDB9F8589BB7}.Debug|Net40.Build.0 = Debug|Any CPU
 		{F17E5E06-F28C-4E91-964F-CDB9F8589BB7}.Debug|WithNRefactory.ActiveCfg = Debug|Any CPU
 		{F17E5E06-F28C-4E91-964F-CDB9F8589BB7}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F17E5E06-F28C-4E91-964F-CDB9F8589BB7}.Release|Any CPU.Build.0 = Release|Any CPU
