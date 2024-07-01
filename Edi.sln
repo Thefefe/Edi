@@ -62,6 +62,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Files", "Tools\BuiltIn\File
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Edi.Apps", "Edi\Edi.Apps\Edi.Apps.csproj", "{4DF91F4B-878A-4AB3-A5EC-16BCE3D6E99D}"
 EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "UITests", "UITests\UITests.csproj", "{79AC7401-5ED6-498E-BA17-604B83DD3F23}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -368,6 +370,22 @@ Global
 		{4DF91F4B-878A-4AB3-A5EC-16BCE3D6E99D}.Release|Net40.Build.0 = Release|Any CPU
 		{4DF91F4B-878A-4AB3-A5EC-16BCE3D6E99D}.Release|WithNRefactory.ActiveCfg = Release|Any CPU
 		{4DF91F4B-878A-4AB3-A5EC-16BCE3D6E99D}.Release|WithNRefactory.Build.0 = Release|Any CPU
+		{79AC7401-5ED6-498E-BA17-604B83DD3F23}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{79AC7401-5ED6-498E-BA17-604B83DD3F23}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{79AC7401-5ED6-498E-BA17-604B83DD3F23}.Debug|Net35.ActiveCfg = Debug|Any CPU
+		{79AC7401-5ED6-498E-BA17-604B83DD3F23}.Debug|Net35.Build.0 = Debug|Any CPU
+		{79AC7401-5ED6-498E-BA17-604B83DD3F23}.Debug|Net40.ActiveCfg = Debug|Any CPU
+		{79AC7401-5ED6-498E-BA17-604B83DD3F23}.Debug|Net40.Build.0 = Debug|Any CPU
+		{79AC7401-5ED6-498E-BA17-604B83DD3F23}.Debug|WithNRefactory.ActiveCfg = Debug|Any CPU
+		{79AC7401-5ED6-498E-BA17-604B83DD3F23}.Debug|WithNRefactory.Build.0 = Debug|Any CPU
+		{79AC7401-5ED6-498E-BA17-604B83DD3F23}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{79AC7401-5ED6-498E-BA17-604B83DD3F23}.Release|Any CPU.Build.0 = Release|Any CPU
+		{79AC7401-5ED6-498E-BA17-604B83DD3F23}.Release|Net35.ActiveCfg = Release|Any CPU
+		{79AC7401-5ED6-498E-BA17-604B83DD3F23}.Release|Net35.Build.0 = Release|Any CPU
+		{79AC7401-5ED6-498E-BA17-604B83DD3F23}.Release|Net40.ActiveCfg = Release|Any CPU
+		{79AC7401-5ED6-498E-BA17-604B83DD3F23}.Release|Net40.Build.0 = Release|Any CPU
+		{79AC7401-5ED6-498E-BA17-604B83DD3F23}.Release|WithNRefactory.ActiveCfg = Release|Any CPU
+		{79AC7401-5ED6-498E-BA17-604B83DD3F23}.Release|WithNRefactory.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
